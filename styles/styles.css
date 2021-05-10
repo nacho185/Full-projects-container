@@ -12,9 +12,9 @@ body {
   font-size: 1.5rem;
 }
 .navbar-container {
-  background: #555;
-  border-bottom: 1px solid #ddd;
-  color: #fff;
+  background:rgba(21, 42, 73, 1);
+  border-bottom: 1px solid rgb(37, 64, 105);
+  color: #f8f8f8;
   display: flex;
   justify-content: space-around;
   padding: 20px 0;
@@ -31,18 +31,19 @@ body {
   font-size: 1.2rem;
 }
 .navbar ul li a {
-  color: #fff;
+  color: #f8f8f8;
   text-decoration: none;
   padding: 10px;
 }
 .navbar ul li a:hover {
   cursor: pointer;
   background-color: var(--clr-neutral-400);
+  color: #333;
 }
 .intro-to-page h1 {
   text-align: center;
   font-size: 2.4rem;
-  color: white;
+  color: #fff;
   margin: 120px 0 10px;
 }
 /**/
