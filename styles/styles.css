@@ -1,3 +1,4 @@
+/**/
 * {
   margin: 0;
   padding: 0;
@@ -6,11 +7,43 @@ body {
   background: var(--clr-neutral-900);
   font-family: "Itim", cursive;
 }
+/**/
+.branding h1 {
+  font-size: 1.5rem;
+}
+.navbar-container {
+  background: #555;
+  border-bottom: 1px solid #ddd;
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 900;
+  align-items: center;
+}
+.navbar ul li {
+  display: inline-block;
+  margin-left: 10px;
+  font-size: 1.2rem;
+}
+.navbar ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+}
+.navbar ul li a:hover {
+  cursor: pointer;
+  background-color: var(--clr-neutral-400);
+}
 .intro-to-page h1 {
   text-align: center;
   font-size: 2.4rem;
   color: white;
-  margin: 40px 0 10px;
+  margin: 120px 0 10px;
 }
 /**/
 :root {
