@@ -65,22 +65,72 @@ body {
   transform: scale(1.05);
 }
 .card-p1 {
-  background-image: url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?cs=srgb&dl=pexels-negative-space-169573.jpg&fm=jpg");
+  background-image: url("../assets/images/weatherimg.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .card-p2 {
-  background-image: url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?cs=srgb&dl=pexels-negative-space-169573.jpg&fm=jpg");
+  background-image: url("../assets/images/resumeimg.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 .card-p3 {
-  background-image: url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?cs=srgb&dl=pexels-negative-space-169573.jpg&fm=jpg");
+  background-image: url("../assets/images/netfliximg.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 .card-p4 {
-  background-image: url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?cs=srgb&dl=pexels-negative-space-169573.jpg&fm=jpg");
+  background-image: url("../assets/images/Ecommerceimg.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
 }
 .card-p5 {
-  background-image: url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?cs=srgb&dl=pexels-negative-space-169573.jpg&fm=jpg");
+  background-image: url("../assets/images/youtubeimg.png");
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
 }
 .card-p6 {
-  background-image: url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?cs=srgb&dl=pexels-negative-space-169573.jpg&fm=jpg");
+  background-image: url("../assets/images/cryptoimg.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.card-p6 {
+  background-image: url("../assets/images/cryptoimg.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}.card-p6 {
+  background-image: url("../assets/images/cryptoimg.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}.card-p6 {
+  background-image: url("../assets/images/cryptoimg.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}.card-p6 {
+  background-image: url("../assets/images/cryptoimg.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}.card-p6 {
+  background-image: url("../assets/images/cryptoimg.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}.card-p6 {
+  background-image: url("../assets/images/cryptoimg.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .card-1 {
   background-image: url("../assets/images/clock.PNG");
