@@ -63,7 +63,24 @@ body {
 .project-card:focus-within {
   transform: scale(1.05);
 }
-
+.card-p1 {
+  background-image: url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?cs=srgb&dl=pexels-negative-space-169573.jpg&fm=jpg");
+}
+.card-p2 {
+  background-image: url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?cs=srgb&dl=pexels-negative-space-169573.jpg&fm=jpg");
+}
+.card-p3 {
+  background-image: url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?cs=srgb&dl=pexels-negative-space-169573.jpg&fm=jpg");
+}
+.card-p4 {
+  background-image: url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?cs=srgb&dl=pexels-negative-space-169573.jpg&fm=jpg");
+}
+.card-p5 {
+  background-image: url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?cs=srgb&dl=pexels-negative-space-169573.jpg&fm=jpg");
+}
+.card-p6 {
+  background-image: url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?cs=srgb&dl=pexels-negative-space-169573.jpg&fm=jpg");
+}
 .card-1 {
   background-image: url("../assets/images/clock.PNG");
   background-position: center;
