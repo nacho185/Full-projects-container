@@ -101,33 +101,33 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
-.card-p6 {
+.card-p7 {
+  background-image: url("../assets/images/uberimg.png");
+  background-position: top left;
+  background-size: cover;
+  background-repeat: no-repeat;
+}.card-p8 {
+  background-image: url("../assets/images/weatherv1img.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}.card-p9 {
+  background-image: url("../assets/images/covidsummaryimg.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}.card-p10 {
   background-image: url("../assets/images/cryptoimg.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-}.card-p6 {
-  background-image: url("../assets/images/cryptoimg.png");
+}.card-p11 {
+  background-image: url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?cs=srgb&dl=pexels-negative-space-169573.jpg&fm=jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-}.card-p6 {
-  background-image: url("../assets/images/cryptoimg.png");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}.card-p6 {
-  background-image: url("../assets/images/cryptoimg.png");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}.card-p6 {
-  background-image: url("../assets/images/cryptoimg.png");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}.card-p6 {
-  background-image: url("../assets/images/cryptoimg.png");
+}.card-p12 {
+  background-image: url("https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?cs=srgb&dl=pexels-negative-space-169573.jpg&fm=jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
