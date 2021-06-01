@@ -4,7 +4,7 @@
   padding: 0;
 }
 body {
-  background: var(--clr-neutral-900);
+  background: #50723c;
   font-family: "Itim", cursive;
 }
 /**/
@@ -12,7 +12,7 @@ body {
   font-size: 1.5rem;
 }
 .navbar-container {
-  background: rgba(21, 42, 73, 1);
+  background: #63b995;
   border-bottom: 1px solid rgb(37, 64, 105);
   color: #f8f8f8;
   display: flex;
