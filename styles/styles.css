@@ -5,7 +5,7 @@
 }
 body {
   background: #50723c;
-  font-family: "Itim", cursive;
+  font-family: "Sigmar One", cursive;
 }
 /**/
 .branding h1 {
@@ -14,7 +14,7 @@ body {
 .navbar-container {
   background: #63b995;
   border-bottom: 1px solid rgb(37, 64, 105);
-  color: #f8f8f8;
+  color: #555;
   display: flex;
   justify-content: space-around;
   padding: 20px 0;
@@ -31,7 +31,7 @@ body {
   font-size: 1.2rem;
 }
 .navbar ul li a {
-  color: #f8f8f8;
+  color: #555;
   text-decoration: none;
   padding: 10px;
 }
@@ -43,7 +43,7 @@ body {
 .intro-to-page h1 {
   text-align: center;
   font-size: 2.4rem;
-  color: #fff;
+  color: #000;
   margin: 120px 0 10px;
 }
 /**/
