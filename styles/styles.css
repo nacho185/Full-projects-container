@@ -4,7 +4,7 @@
   padding: 0;
 }
 body {
-  background: #2bc5e0;
+  background: #ada397;
   font-family: "Roboto", sans-serif;
 }
 /**/
@@ -12,7 +12,7 @@ body {
   font-size: 1.5rem;
 }
 .navbar-container {
-  background: #63b995;
+  background: #bdcebe;
   border-bottom: 1px solid rgb(37, 64, 105);
   color: #555;
   display: flex;
