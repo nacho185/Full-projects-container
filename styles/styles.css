@@ -4,7 +4,7 @@
   padding: 0;
 }
 body {
-  background: #ada397;
+  background: #ccccff;
   font-family: "Roboto", sans-serif;
 }
 /**/
@@ -12,9 +12,9 @@ body {
   font-size: 1.5rem;
 }
 .navbar-container {
-  background: #bdcebe;
+  background: #6495ed;
   border-bottom: 1px solid rgb(37, 64, 105);
-  color: #555;
+  color: #fff;
   display: flex;
   justify-content: space-around;
   padding: 20px 0;
@@ -31,14 +31,14 @@ body {
   font-size: 1.2rem;
 }
 .navbar ul li a {
-  color: #555;
+  color: #fff;
   text-decoration: none;
   padding: 10px;
 }
 .navbar ul li a:hover {
   cursor: pointer;
   background-color: var(--clr-neutral-400);
-  color: #333;
+  color: #fff;
 }
 .intro-to-page h1 {
   text-align: center;
