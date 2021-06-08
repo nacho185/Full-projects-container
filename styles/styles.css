@@ -55,7 +55,7 @@ body {
 }
 .navbar ul li a:hover {
   cursor: pointer;
-  background-color: var(--clr-neutral-400);
+  background-color: #555;
   color: #fff;
 }
 .intro-to-page h1 {
