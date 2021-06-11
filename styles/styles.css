@@ -83,7 +83,7 @@ body {
   transform: scale(1.05);
 }
 .card-p1 {
-  background-image: url("../assets/images/weatherimg.png");
+  background-image: url("../assets/images/weatherimg.png.desktop");
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
