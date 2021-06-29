@@ -1,0 +1,54 @@
+/*variables*/
+/*end variables*/
+/*global*/
+*::after,
+*::before,
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #e5beed;
+}
+
+/*end global*/
+.description {
+  text-align: center;
+  color: #f8f8f8;
+  font-size: 2.5rem;
+}
+
+.container {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.container .api-callId {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  background-color: #9593d9;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.container .card {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[4];
+      grid-template-columns: repeat(4, 1fr);
+  gap: 30px;
+}
+
+.container .card .grid-element {
+  background-color: #f8f8f8;
+  color: #7c90db;
+}
+/*# sourceMappingURL=styles.css.map */
