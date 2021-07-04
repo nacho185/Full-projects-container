@@ -55,8 +55,8 @@ body {
 }
 .navbar ul li a:hover {
   cursor: pointer;
-  background-color: #555;
-  color: #fff;
+  background-color: #ddd;
+  color: #333;
 }
 .intro-to-page h1 {
   text-align: center;
